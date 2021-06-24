@@ -1,11 +1,10 @@
-# Application Landing page!
+# Registration page!
 
-[Check it out](https://github.com/thecyberbaby/Html-CSS/tree/main/APP_landingPage)
+[Check it out](https://github.com/thecyberbaby/Html-CSS/tree/main/Registration_Page)
 
 ## Description :
 
-A simple landing page for Mobile applications
-using HTML-CSS only.
+A registration page using HTML-CSS only.
 
 ## Auther :
 
@@ -13,7 +12,7 @@ using HTML-CSS only.
 
 ## Screenshot :
 
-<img src="images/Snap.png" width="1080">
+<img src="images/SNAP.png" width="1080">
 
 ## Technology :
 
