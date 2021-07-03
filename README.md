@@ -5,11 +5,11 @@ develped by ["Nishant Sharma"](https://nishantsharma.netlify.app/).
 
 ## This repository contains the following projects :
 
-[Portfolio](#Portfolio) <br/>
-[App landing page] <br/>
-[Registration page] <br/>
-[Simple landing page] <br/>
-[User login sign up pages]
+- [Portfolio](#Portfolio) <br/>
+- [App landing page] <br/>
+- [Registration page] <br/>
+- [Simple landing page] <br/>
+- [User login sign up pages]
 
 ## Usages
 
