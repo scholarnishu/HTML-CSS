@@ -6,8 +6,10 @@ develped by ["Nishant Sharma"](https://nishantsharma.netlify.app/).
 ## This repository contains the following projects :
 
 Portfolio <br/>
-Simple landing page
+Simple landing page <br/>
+User login sign up pages
 
 ## Usages
 
 You can use these projects as your basic projects in HTML CSS.
+

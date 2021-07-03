@@ -1,0 +1,118 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+}
+
+body {
+  background-image: url(../images/bg.png);
+  background-repeat: no-repeat;
+}
+
+h1 {
+  color: #fff;
+  font-size: 40px;
+  padding: 50px 0;
+  text-transform: uppercase;
+}
+h3 {
+  color: #fff;
+  padding: 15px 0;
+  font-size: 20px;
+  text-align: center;
+}
+.container {
+  height: 10vh;
+  padding: 50px 1px 0 0;
+}
+.nav-logo {
+  margin: 20px 20px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+.form form {
+  display: flex;
+  flex-direction: column;
+}
+.form input {
+  padding: 10px 50px;
+  margin: 10px 0px;
+  border-radius: 25px;
+  font-size: 16px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.8);
+}
+
+.login-btn {
+  background-color: #4caf50;
+  border: none;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  color: rgb(3, 3, 3);
+  padding: 10px 0px;
+  margin: 15px 0px;
+  border-radius: 25px;
+  text-transform: uppercase;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.8);
+  transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+}
+
+.signup-btn {
+  background-color: #e0a434;
+  border: none;
+  text-align: center;
+  font-weight: bold;
+  font-size: 16px;
+  color: rgb(3, 3, 3);
+  padding: 10px 118px;
+  margin: 5px 0px;
+  border-radius: 25px;
+  text-transform: uppercase;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.8);
+  transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+}
+
+.login-btn:hover,
+.signup-btn:hover {
+  color: #fff;
+  box-shadow: 0 0 5px 5px #4805a0;
+}
+
+/* signup-page */
+
+.grid-container {
+  display: grid;
+  justify-content: center;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+form input {
+  padding: 10px 50px;
+  margin: 10px 0px;
+  border-radius: 25px;
+  font-size: 16px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.8);
+}
+.row {
+  display: flex;
+  margin: 20px 1px 0 0;
+}
+.column {
+  flex: 50%;
+  margin: 5px;
+}
+
+@media screen and (max-width: 720px) {
+  .row {
+    flex-direction: column;
+  }
+}
