@@ -6,7 +6,7 @@ develped by ["Nishant Sharma"](https://nishantsharma.netlify.app/).
 ## This repository contains the following projects :
 
 - ## Personal portfolio
-<img src="portfolio/images/slides/PORTFOLIO1.png" width="1080">
+<img src="./portfolio/images/slides/PORTFOLIO1.png" width="1080">
 
 <br/>
 
