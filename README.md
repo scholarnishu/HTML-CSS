@@ -12,6 +12,7 @@ develped by ["Nishant Sharma"](https://nishantsharma.netlify.app/).
 
 - ## App landing page
 <img src="./APP_landingPage/images/Snap.png" width="1080">
+<img src="./portfolio/images/slides/PORTFOLIO1.png" width="1080">
 
 <br/>
 
